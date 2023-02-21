@@ -26,10 +26,6 @@ function fadeIn()
      {
        animation[i].classList.add('visible');
      }
-     else
-     {
-       animation[i].classList.remove('visible');
-     }    
-    }
+     
 }
-
+}
